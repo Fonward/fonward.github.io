@@ -27,6 +27,3 @@ Ede`Fonward
 ## 诠气说
 ## 遇'univerze
 ## 克莫尔大陆
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dmego/home.github.io&type=Date)](https://star-history.com/#dmego/home.github.io&Date)
-
